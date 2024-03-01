@@ -10,7 +10,7 @@ namespace ModTemplate
      * 
      * basically class containing basic
      * utilites, remember most of variables like IsInGame
-     * should work in most Chesscake dev games but it may
+     * should work in most Cheesecake dev games but it may
      * not work in some games
      */
 
