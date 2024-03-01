@@ -7,8 +7,8 @@
     <ProjectGuid>{8FB0563A-00CA-4424-B02D-5A3FC9794585}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ModTemplate</RootNamespace>
-    <AssemblyName>ModTemplate</AssemblyName>
+    <RootNamespace>FPSCounter</RootNamespace>
+    <AssemblyName>FPSCounter</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
