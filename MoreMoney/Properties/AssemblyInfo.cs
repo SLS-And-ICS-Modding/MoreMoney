@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ModTemplate")]
+[assembly: AssemblyTitle("MoreMoney")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ModTemplate")]
+[assembly: AssemblyProduct("MoreMoney")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -35,6 +35,6 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: MelonInfo(typeof(FPSCounter.MainClass), "FPSCounter", "1.0.0", "Zordon1337")]
+[assembly: MelonInfo(typeof(MoreMoney.MainClass), "MoreMoney", "1.0.0", "Zordon1337")]
 [assembly: MelonGame("Cheesecake Dev", "Internet Cafe Simulator")]
 //[assembly: MelonGame("Cheesecake Dev", "Streamer Life Simulator")]
